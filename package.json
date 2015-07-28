@@ -1,0 +1,14 @@
+{
+  "name": "correction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emmanuel Gautier",
+  "license": "GPLv2",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
